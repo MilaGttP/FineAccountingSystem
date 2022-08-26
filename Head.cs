@@ -1,11 +1,11 @@
 ﻿
 namespace FineAccountingSystem
 {
-    public class Program
+    public class Head
     {
         static void Main()
         {
-            
+            //...
         }
     }
 }
