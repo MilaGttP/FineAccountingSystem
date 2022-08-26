@@ -1,7 +1,7 @@
 ﻿
 namespace FineAccountingSystem
 {
-    public class PolicemanAccount : Policeman, IAccount 
+    public class PolicemanAccount : Policeman, IAccount
     {
         public string Name { get; }
         public string Phone { get; }
