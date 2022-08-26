@@ -1,7 +1,7 @@
 ﻿
 namespace FineAccountingSystem
 {
-    public class CitizenAccount : IAccount
+    public class CitizenAccount : Citizen, IAccount
     {
         public string Name { get; }
         public string Phone { get; }
