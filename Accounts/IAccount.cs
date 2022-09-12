@@ -3,11 +3,13 @@ namespace FineAccountingSystem
 {
     public interface IAccount
     {
-        string Name { get; }
+        string FullName { get; }
+        string ITN { get; }
         string Phone { get; }
         string Email { get; }
         string Password { get; }
+        void AccountForm();
         void Registration();
-        void SignIn();
+        bool SignIn();
     }
 }

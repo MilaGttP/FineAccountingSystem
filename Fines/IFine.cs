@@ -8,5 +8,6 @@ namespace FineAccountingSystem
         DateTime DateOfIssue { get; }
         DateTime DateOfPayment { get; }
         UInt32 Price { get; }
+        string ToString();
     }
 }

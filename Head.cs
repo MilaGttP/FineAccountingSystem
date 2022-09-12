@@ -5,7 +5,10 @@ namespace FineAccountingSystem
     {
         static void Main()
         {
-            //...
+            OperationsFacade.ShowMainOperMenu();
+
+            //OperationsFacade.LegalEntityMenu();
+            //OperationsFacade.PolicemanMenu();
         }
     }
 }
