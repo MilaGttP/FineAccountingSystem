@@ -1,5 +1,5 @@
 # Diagrams
 
-#Усі діаграми для проєкту
+#Усі діаграми для проєкту.
 
-#All diagrams for project
+#All diagrams for project.
